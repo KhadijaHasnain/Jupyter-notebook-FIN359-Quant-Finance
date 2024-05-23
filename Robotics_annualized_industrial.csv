@@ -1,0 +1,1132 @@
+Year,industry,installations,operational_stock,industry_encoded
+1993,All Industries,5246,43454,All Industries
+1994,All Industries,6676,49130,All Industries
+1995,All Industries,8815,56945,All Industries
+1996,All Industries,8385,60965,All Industries
+1997,All Industries,10723,66394,All Industries
+1998,All Industries,9365,70466,All Industries
+1999,All Industries,12836,79959,All Industries
+2000,All Industries,12986,89880,All Industries
+2001,All Industries,10813,97257,All Industries
+2002,All Industries,9955,103515,All Industries
+2003,All Industries,12693,112390,All Industries
+2004,All Industries,15170,123663,All Industries
+2005,All Industries,21567,139984,All Industries
+2006,All Industries,17417,150725,All Industries
+2007,All Industries,18722,160632,All Industries
+2008,All Industries,16242,168489,All Industries
+2009,All Industries,8417,166183,All Industries
+2010,All Industries,16356,173174,All Industries
+2011,All Industries,20555,180893,All Industries
+2012,All Industries,22414,190321,All Industries
+2013,All Industries,23679,203187,All Industries
+2014,All Industries,26202,219434,All Industries
+2015,All Industries,27504,234245,All Industries
+2016,All Industries,31404,250479,All Industries
+2017,All Industries,33146,262058,All Industries
+2018,All Industries,40373,285014,All Industries
+2019,All Industries,33378,299670,All Industries
+2020,All Industries,30787,314215,All Industries
+2021,All Industries,34987,340785,All Industries
+1993,All other manufacturing branches,0,0,All other manufacturing branches
+1994,All other manufacturing branches,0,0,All other manufacturing branches
+1995,All other manufacturing branches,0,0,All other manufacturing branches
+1996,All other manufacturing branches,0,0,All other manufacturing branches
+1997,All other manufacturing branches,0,0,All other manufacturing branches
+1998,All other manufacturing branches,0,0,All other manufacturing branches
+1999,All other manufacturing branches,0,0,All other manufacturing branches
+2000,All other manufacturing branches,0,0,All other manufacturing branches
+2001,All other manufacturing branches,0,0,All other manufacturing branches
+2002,All other manufacturing branches,0,0,All other manufacturing branches
+2003,All other manufacturing branches,0,0,All other manufacturing branches
+2004,All other manufacturing branches,0,0,All other manufacturing branches
+2005,All other manufacturing branches,328,328,All other manufacturing branches
+2006,All other manufacturing branches,60,388,All other manufacturing branches
+2007,All other manufacturing branches,77,465,All other manufacturing branches
+2008,All other manufacturing branches,223,688,All other manufacturing branches
+2009,All other manufacturing branches,108,796,All other manufacturing branches
+2010,All other manufacturing branches,115,911,All other manufacturing branches
+2011,All other manufacturing branches,1607,2518,All other manufacturing branches
+2012,All other manufacturing branches,1424,3942,All other manufacturing branches
+2013,All other manufacturing branches,1555,5497,All other manufacturing branches
+2014,All other manufacturing branches,1465,6962,All other manufacturing branches
+2015,All other manufacturing branches,1898,8722,All other manufacturing branches
+2016,All other manufacturing branches,1338,9927,All other manufacturing branches
+2017,All other manufacturing branches,1893,11463,All other manufacturing branches
+2018,All other manufacturing branches,3303,14674,All other manufacturing branches
+2019,All other manufacturing branches,2325,16873,All other manufacturing branches
+2020,All other manufacturing branches,1828,18478,All other manufacturing branches
+2021,All other manufacturing branches,3120,21469,All other manufacturing branches
+1993,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+1994,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+1995,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+1996,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+1997,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+1998,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+1999,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+2000,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+2001,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+2002,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+2003,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+2004,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+2005,All other non-manufacturing branches,0,0,All other non-manufacturing branches
+2006,All other non-manufacturing branches,3,3,All other non-manufacturing branches
+2007,All other non-manufacturing branches,0,3,All other non-manufacturing branches
+2008,All other non-manufacturing branches,0,3,All other non-manufacturing branches
+2009,All other non-manufacturing branches,37,40,All other non-manufacturing branches
+2010,All other non-manufacturing branches,35,75,All other non-manufacturing branches
+2011,All other non-manufacturing branches,25,100,All other non-manufacturing branches
+2012,All other non-manufacturing branches,97,197,All other non-manufacturing branches
+2013,All other non-manufacturing branches,26,223,All other non-manufacturing branches
+2014,All other non-manufacturing branches,14,237,All other non-manufacturing branches
+2015,All other non-manufacturing branches,74,277,All other non-manufacturing branches
+2016,All other non-manufacturing branches,61,332,All other non-manufacturing branches
+2017,All other non-manufacturing branches,93,400,All other non-manufacturing branches
+2018,All other non-manufacturing branches,126,522,All other non-manufacturing branches
+2019,All other non-manufacturing branches,272,775,All other non-manufacturing branches
+2020,All other non-manufacturing branches,215,981,All other non-manufacturing branches
+2021,All other non-manufacturing branches,480,1414,All other non-manufacturing branches
+1993,Automotive,0,0,Automotive
+1994,Automotive,0,0,Automotive
+1995,Automotive,0,0,Automotive
+1996,Automotive,0,0,Automotive
+1997,Automotive,0,0,Automotive
+1998,Automotive,0,0,Automotive
+1999,Automotive,0,0,Automotive
+2000,Automotive,0,0,Automotive
+2001,Automotive,0,0,Automotive
+2002,Automotive,0,0,Automotive
+2003,Automotive,0,0,Automotive
+2004,Automotive,8651,8651,Automotive
+2005,Automotive,13154,21805,Automotive
+2006,Automotive,7577,29382,Automotive
+2007,Automotive,9292,38674,Automotive
+2008,Automotive,6723,45397,Automotive
+2009,Automotive,3780,49177,Automotive
+2010,Automotive,5368,54545,Automotive
+2011,Automotive,8426,62971,Automotive
+2012,Automotive,11667,74638,Automotive
+2013,Automotive,10320,84958,Automotive
+2014,Automotive,13611,98569,Automotive
+2015,Automotive,12273,110842,Automotive
+2016,Automotive,16311,118502,Automotive
+2017,Automotive,15397,120745,Automotive
+2018,Automotive,15246,128414,Automotive
+2019,Automotive,12960,132082,Automotive
+2020,Automotive,10494,135853,Automotive
+2021,Automotive,9782,141855,Automotive
+1993,Automotive parts,0,0,Automotive parts
+1994,Automotive parts,0,0,Automotive parts
+1995,Automotive parts,0,0,Automotive parts
+1996,Automotive parts,0,0,Automotive parts
+1997,Automotive parts,0,0,Automotive parts
+1998,Automotive parts,0,0,Automotive parts
+1999,Automotive parts,0,0,Automotive parts
+2000,Automotive parts,0,0,Automotive parts
+2001,Automotive parts,0,0,Automotive parts
+2002,Automotive parts,0,0,Automotive parts
+2003,Automotive parts,0,0,Automotive parts
+2004,Automotive parts,3950,3950,Automotive parts
+2005,Automotive parts,4982,8932,Automotive parts
+2006,Automotive parts,3593,12525,Automotive parts
+2007,Automotive parts,3591,16116,Automotive parts
+2008,Automotive parts,3447,19563,Automotive parts
+2009,Automotive parts,1231,20794,Automotive parts
+2010,Automotive parts,2308,23102,Automotive parts
+2011,Automotive parts,3939,27041,Automotive parts
+2012,Automotive parts,4284,31325,Automotive parts
+2013,Automotive parts,4589,35914,Automotive parts
+2014,Automotive parts,7004,42918,Automotive parts
+2015,Automotive parts,7418,50336,Automotive parts
+2016,Automotive parts,7714,54100,Automotive parts
+2017,Automotive parts,9129,58247,Automotive parts
+2018,Automotive parts,10527,65181,Automotive parts
+2019,Automotive parts,7557,69147,Automotive parts
+2020,Automotive parts,5128,70828,Automotive parts
+2021,Automotive parts,5656,75253,Automotive parts
+1993,Automotive unspecified,0,0,Automotive unspecified
+1994,Automotive unspecified,0,0,Automotive unspecified
+1995,Automotive unspecified,0,0,Automotive unspecified
+1996,Automotive unspecified,0,0,Automotive unspecified
+1997,Automotive unspecified,0,0,Automotive unspecified
+1998,Automotive unspecified,0,0,Automotive unspecified
+1999,Automotive unspecified,0,0,Automotive unspecified
+2000,Automotive unspecified,0,0,Automotive unspecified
+2001,Automotive unspecified,0,0,Automotive unspecified
+2002,Automotive unspecified,0,0,Automotive unspecified
+2003,Automotive unspecified,0,0,Automotive unspecified
+2004,Automotive unspecified,0,0,Automotive unspecified
+2005,Automotive unspecified,0,0,Automotive unspecified
+2006,Automotive unspecified,0,0,Automotive unspecified
+2007,Automotive unspecified,0,0,Automotive unspecified
+2008,Automotive unspecified,0,0,Automotive unspecified
+2009,Automotive unspecified,0,0,Automotive unspecified
+2010,Automotive unspecified,0,0,Automotive unspecified
+2011,Automotive unspecified,0,0,Automotive unspecified
+2012,Automotive unspecified,0,0,Automotive unspecified
+2013,Automotive unspecified,0,0,Automotive unspecified
+2014,Automotive unspecified,0,0,Automotive unspecified
+2015,Automotive unspecified,54,54,Automotive unspecified
+2016,Automotive unspecified,0,54,Automotive unspecified
+2017,Automotive unspecified,62,116,Automotive unspecified
+2018,Automotive unspecified,0,116,Automotive unspecified
+2019,Automotive unspecified,0,116,Automotive unspecified
+2020,Automotive unspecified,0,116,Automotive unspecified
+2021,Automotive unspecified,0,116,Automotive unspecified
+1993,Basic metals,0,0,Basic metals
+1994,Basic metals,0,0,Basic metals
+1995,Basic metals,0,0,Basic metals
+1996,Basic metals,0,0,Basic metals
+1997,Basic metals,0,0,Basic metals
+1998,Basic metals,0,0,Basic metals
+1999,Basic metals,0,0,Basic metals
+2000,Basic metals,0,0,Basic metals
+2001,Basic metals,0,0,Basic metals
+2002,Basic metals,0,0,Basic metals
+2003,Basic metals,0,0,Basic metals
+2004,Basic metals,0,0,Basic metals
+2005,Basic metals,0,0,Basic metals
+2006,Basic metals,0,0,Basic metals
+2007,Basic metals,0,0,Basic metals
+2008,Basic metals,8,8,Basic metals
+2009,Basic metals,10,18,Basic metals
+2010,Basic metals,34,52,Basic metals
+2011,Basic metals,220,272,Basic metals
+2012,Basic metals,734,1006,Basic metals
+2013,Basic metals,1501,2507,Basic metals
+2014,Basic metals,1490,3997,Basic metals
+2015,Basic metals,1237,5234,Basic metals
+2016,Basic metals,877,6111,Basic metals
+2017,Basic metals,1392,7503,Basic metals
+2018,Basic metals,1640,9143,Basic metals
+2019,Basic metals,1402,10545,Basic metals
+2020,Basic metals,1600,12137,Basic metals
+2021,Basic metals,2621,14748,Basic metals
+1993,Chemical products unspecified,0,0,Chemical products unspecified
+1994,Chemical products unspecified,0,0,Chemical products unspecified
+1995,Chemical products unspecified,0,0,Chemical products unspecified
+1996,Chemical products unspecified,0,0,Chemical products unspecified
+1997,Chemical products unspecified,0,0,Chemical products unspecified
+1998,Chemical products unspecified,0,0,Chemical products unspecified
+1999,Chemical products unspecified,0,0,Chemical products unspecified
+2000,Chemical products unspecified,0,0,Chemical products unspecified
+2001,Chemical products unspecified,0,0,Chemical products unspecified
+2002,Chemical products unspecified,0,0,Chemical products unspecified
+2003,Chemical products unspecified,0,0,Chemical products unspecified
+2004,Chemical products unspecified,0,0,Chemical products unspecified
+2005,Chemical products unspecified,0,0,Chemical products unspecified
+2006,Chemical products unspecified,0,0,Chemical products unspecified
+2007,Chemical products unspecified,0,0,Chemical products unspecified
+2008,Chemical products unspecified,0,0,Chemical products unspecified
+2009,Chemical products unspecified,0,0,Chemical products unspecified
+2010,Chemical products unspecified,0,0,Chemical products unspecified
+2011,Chemical products unspecified,0,0,Chemical products unspecified
+2012,Chemical products unspecified,0,0,Chemical products unspecified
+2013,Chemical products unspecified,0,0,Chemical products unspecified
+2014,Chemical products unspecified,0,0,Chemical products unspecified
+2015,Chemical products unspecified,0,0,Chemical products unspecified
+2016,Chemical products unspecified,0,0,Chemical products unspecified
+2017,Chemical products unspecified,0,0,Chemical products unspecified
+2018,Chemical products unspecified,0,0,Chemical products unspecified
+2019,Chemical products unspecified,0,0,Chemical products unspecified
+2020,Chemical products unspecified,0,0,Chemical products unspecified
+2021,Chemical products unspecified,0,0,Chemical products unspecified
+1993,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+1994,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+1995,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+1996,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+1997,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+1998,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+1999,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2000,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2001,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2002,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2003,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2004,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2005,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2006,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2007,Computers and peripheral equipment,0,0,Computers and peripheral equipment
+2008,Computers and peripheral equipment,16,16,Computers and peripheral equipment
+2009,Computers and peripheral equipment,0,16,Computers and peripheral equipment
+2010,Computers and peripheral equipment,0,16,Computers and peripheral equipment
+2011,Computers and peripheral equipment,28,44,Computers and peripheral equipment
+2012,Computers and peripheral equipment,43,87,Computers and peripheral equipment
+2013,Computers and peripheral equipment,129,216,Computers and peripheral equipment
+2014,Computers and peripheral equipment,34,250,Computers and peripheral equipment
+2015,Computers and peripheral equipment,42,292,Computers and peripheral equipment
+2016,Computers and peripheral equipment,21,313,Computers and peripheral equipment
+2017,Computers and peripheral equipment,33,346,Computers and peripheral equipment
+2018,Computers and peripheral equipment,262,608,Computers and peripheral equipment
+2019,Computers and peripheral equipment,50,658,Computers and peripheral equipment
+2020,Computers and peripheral equipment,168,810,Computers and peripheral equipment
+2021,Computers and peripheral equipment,38,848,Computers and peripheral equipment
+1993,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+1994,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+1995,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+1996,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+1997,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+1998,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+1999,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2000,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2001,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2002,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2003,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2004,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2005,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2006,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2007,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2008,Electrical machinery n.e.c. (non-automotive),0,0,Electrical machinery n.e.c. (non-automotive)
+2009,Electrical machinery n.e.c. (non-automotive),11,11,Electrical machinery n.e.c. (non-automotive)
+2010,Electrical machinery n.e.c. (non-automotive),0,11,Electrical machinery n.e.c. (non-automotive)
+2011,Electrical machinery n.e.c. (non-automotive),290,301,Electrical machinery n.e.c. (non-automotive)
+2012,Electrical machinery n.e.c. (non-automotive),225,526,Electrical machinery n.e.c. (non-automotive)
+2013,Electrical machinery n.e.c. (non-automotive),252,778,Electrical machinery n.e.c. (non-automotive)
+2014,Electrical machinery n.e.c. (non-automotive),228,1006,Electrical machinery n.e.c. (non-automotive)
+2015,Electrical machinery n.e.c. (non-automotive),276,1282,Electrical machinery n.e.c. (non-automotive)
+2016,Electrical machinery n.e.c. (non-automotive),1562,2844,Electrical machinery n.e.c. (non-automotive)
+2017,Electrical machinery n.e.c. (non-automotive),316,3160,Electrical machinery n.e.c. (non-automotive)
+2018,Electrical machinery n.e.c. (non-automotive),645,3805,Electrical machinery n.e.c. (non-automotive)
+2019,Electrical machinery n.e.c. (non-automotive),500,4305,Electrical machinery n.e.c. (non-automotive)
+2020,Electrical machinery n.e.c. (non-automotive),487,4792,Electrical machinery n.e.c. (non-automotive)
+2021,Electrical machinery n.e.c. (non-automotive),598,5379,Electrical machinery n.e.c. (non-automotive)
+1993,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+1994,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+1995,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+1996,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+1997,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+1998,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+1999,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2000,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2001,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2002,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2003,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2004,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2005,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2006,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2007,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2008,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2009,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2010,Electrical/electronic (AutoParts),0,0,Electrical/electronic (AutoParts)
+2011,Electrical/electronic (AutoParts),390,390,Electrical/electronic (AutoParts)
+2012,Electrical/electronic (AutoParts),318,708,Electrical/electronic (AutoParts)
+2013,Electrical/electronic (AutoParts),362,1070,Electrical/electronic (AutoParts)
+2014,Electrical/electronic (AutoParts),417,1487,Electrical/electronic (AutoParts)
+2015,Electrical/electronic (AutoParts),470,1957,Electrical/electronic (AutoParts)
+2016,Electrical/electronic (AutoParts),705,2662,Electrical/electronic (AutoParts)
+2017,Electrical/electronic (AutoParts),544,3206,Electrical/electronic (AutoParts)
+2018,Electrical/electronic (AutoParts),650,3856,Electrical/electronic (AutoParts)
+2019,Electrical/electronic (AutoParts),609,4465,Electrical/electronic (AutoParts)
+2020,Electrical/electronic (AutoParts),493,4958,Electrical/electronic (AutoParts)
+2021,Electrical/electronic (AutoParts),386,5344,Electrical/electronic (AutoParts)
+1993,Electrical/electronics,0,0,Electrical/electronics
+1994,Electrical/electronics,0,0,Electrical/electronics
+1995,Electrical/electronics,0,0,Electrical/electronics
+1996,Electrical/electronics,0,0,Electrical/electronics
+1997,Electrical/electronics,0,0,Electrical/electronics
+1998,Electrical/electronics,0,0,Electrical/electronics
+1999,Electrical/electronics,0,0,Electrical/electronics
+2000,Electrical/electronics,0,0,Electrical/electronics
+2001,Electrical/electronics,0,0,Electrical/electronics
+2002,Electrical/electronics,0,0,Electrical/electronics
+2003,Electrical/electronics,0,0,Electrical/electronics
+2004,Electrical/electronics,1307,1307,Electrical/electronics
+2005,Electrical/electronics,1760,3067,Electrical/electronics
+2006,Electrical/electronics,3552,6619,Electrical/electronics
+2007,Electrical/electronics,3219,9838,Electrical/electronics
+2008,Electrical/electronics,2151,11989,Electrical/electronics
+2009,Electrical/electronics,1090,13079,Electrical/electronics
+2010,Electrical/electronics,3555,16634,Electrical/electronics
+2011,Electrical/electronics,3727,20361,Electrical/electronics
+2012,Electrical/electronics,2980,23341,Electrical/electronics
+2013,Electrical/electronics,3328,26669,Electrical/electronics
+2014,Electrical/electronics,4270,30939,Electrical/electronics
+2015,Electrical/electronics,6038,36977,Electrical/electronics
+2016,Electrical/electronics,6420,42090,Electrical/electronics
+2017,Electrical/electronics,6576,46906,Electrical/electronics
+2018,Electrical/electronics,5284,48670,Electrical/electronics
+2019,Electrical/electronics,3460,48911,Electrical/electronics
+2020,Electrical/electronics,3710,50470,Electrical/electronics
+2021,Electrical/electronics,2857,52237,Electrical/electronics
+1993,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+1994,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+1995,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+1996,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+1997,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+1998,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+1999,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+2000,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+2001,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+2002,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+2003,Electrical/electronics unspecified,0,0,Electrical/electronics unspecified
+2004,Electrical/electronics unspecified,1307,1307,Electrical/electronics unspecified
+2005,Electrical/electronics unspecified,1760,3067,Electrical/electronics unspecified
+2006,Electrical/electronics unspecified,3552,6619,Electrical/electronics unspecified
+2007,Electrical/electronics unspecified,3216,9835,Electrical/electronics unspecified
+2008,Electrical/electronics unspecified,0,9835,Electrical/electronics unspecified
+2009,Electrical/electronics unspecified,0,9835,Electrical/electronics unspecified
+2010,Electrical/electronics unspecified,0,9835,Electrical/electronics unspecified
+2011,Electrical/electronics unspecified,0,9835,Electrical/electronics unspecified
+2012,Electrical/electronics unspecified,0,9835,Electrical/electronics unspecified
+2013,Electrical/electronics unspecified,0,9835,Electrical/electronics unspecified
+2014,Electrical/electronics unspecified,495,10330,Electrical/electronics unspecified
+2015,Electrical/electronics unspecified,269,10599,Electrical/electronics unspecified
+2016,Electrical/electronics unspecified,349,9641,Electrical/electronics unspecified
+2017,Electrical/electronics unspecified,1270,9071,Electrical/electronics unspecified
+2018,Electrical/electronics unspecified,0,5519,Electrical/electronics unspecified
+2019,Electrical/electronics unspecified,0,2303,Electrical/electronics unspecified
+2020,Electrical/electronics unspecified,0,2303,Electrical/electronics unspecified
+2021,Electrical/electronics unspecified,0,2303,Electrical/electronics unspecified
+1993,Electronic components/devices,0,0,Electronic components/devices
+1994,Electronic components/devices,0,0,Electronic components/devices
+1995,Electronic components/devices,0,0,Electronic components/devices
+1996,Electronic components/devices,0,0,Electronic components/devices
+1997,Electronic components/devices,0,0,Electronic components/devices
+1998,Electronic components/devices,0,0,Electronic components/devices
+1999,Electronic components/devices,0,0,Electronic components/devices
+2000,Electronic components/devices,0,0,Electronic components/devices
+2001,Electronic components/devices,0,0,Electronic components/devices
+2002,Electronic components/devices,0,0,Electronic components/devices
+2003,Electronic components/devices,0,0,Electronic components/devices
+2004,Electronic components/devices,0,0,Electronic components/devices
+2005,Electronic components/devices,0,0,Electronic components/devices
+2006,Electronic components/devices,0,0,Electronic components/devices
+2007,Electronic components/devices,2,2,Electronic components/devices
+2008,Electronic components/devices,152,154,Electronic components/devices
+2009,Electronic components/devices,201,355,Electronic components/devices
+2010,Electronic components/devices,1,356,Electronic components/devices
+2011,Electronic components/devices,111,467,Electronic components/devices
+2012,Electronic components/devices,241,708,Electronic components/devices
+2013,Electronic components/devices,365,1073,Electronic components/devices
+2014,Electronic components/devices,755,1828,Electronic components/devices
+2015,Electronic components/devices,1635,3463,Electronic components/devices
+2016,Electronic components/devices,816,4279,Electronic components/devices
+2017,Electronic components/devices,618,4897,Electronic components/devices
+2018,Electronic components/devices,3352,8249,Electronic components/devices
+2019,Electronic components/devices,1834,10081,Electronic components/devices
+2020,Electronic components/devices,2342,12271,Electronic components/devices
+2021,Electronic components/devices,1393,13463,Electronic components/devices
+1993,Food and beverages,0,0,Food and beverages
+1994,Food and beverages,0,0,Food and beverages
+1995,Food and beverages,0,0,Food and beverages
+1996,Food and beverages,0,0,Food and beverages
+1997,Food and beverages,0,0,Food and beverages
+1998,Food and beverages,0,0,Food and beverages
+1999,Food and beverages,0,0,Food and beverages
+2000,Food and beverages,0,0,Food and beverages
+2001,Food and beverages,0,0,Food and beverages
+2002,Food and beverages,0,0,Food and beverages
+2003,Food and beverages,0,0,Food and beverages
+2004,Food and beverages,628,628,Food and beverages
+2005,Food and beverages,704,1332,Food and beverages
+2006,Food and beverages,635,1967,Food and beverages
+2007,Food and beverages,759,2726,Food and beverages
+2008,Food and beverages,776,3502,Food and beverages
+2009,Food and beverages,630,4132,Food and beverages
+2010,Food and beverages,935,5067,Food and beverages
+2011,Food and beverages,820,5887,Food and beverages
+2012,Food and beverages,672,6559,Food and beverages
+2013,Food and beverages,1120,7679,Food and beverages
+2014,Food and beverages,1043,8722,Food and beverages
+2015,Food and beverages,1094,9816,Food and beverages
+2016,Food and beverages,1136,10324,Food and beverages
+2017,Food and beverages,1598,11218,Food and beverages
+2018,Food and beverages,2753,13336,Food and beverages
+2019,Food and beverages,2224,14801,Food and beverages
+2020,Food and beverages,2715,16740,Food and beverages
+2021,Food and beverages,3402,19512,Food and beverages
+1993,Glass (AutoParts),0,0,Glass (AutoParts)
+1994,Glass (AutoParts),0,0,Glass (AutoParts)
+1995,Glass (AutoParts),0,0,Glass (AutoParts)
+1996,Glass (AutoParts),0,0,Glass (AutoParts)
+1997,Glass (AutoParts),0,0,Glass (AutoParts)
+1998,Glass (AutoParts),0,0,Glass (AutoParts)
+1999,Glass (AutoParts),0,0,Glass (AutoParts)
+2000,Glass (AutoParts),0,0,Glass (AutoParts)
+2001,Glass (AutoParts),0,0,Glass (AutoParts)
+2002,Glass (AutoParts),0,0,Glass (AutoParts)
+2003,Glass (AutoParts),0,0,Glass (AutoParts)
+2004,Glass (AutoParts),0,0,Glass (AutoParts)
+2005,Glass (AutoParts),0,0,Glass (AutoParts)
+2006,Glass (AutoParts),0,0,Glass (AutoParts)
+2007,Glass (AutoParts),0,0,Glass (AutoParts)
+2008,Glass (AutoParts),0,0,Glass (AutoParts)
+2009,Glass (AutoParts),0,0,Glass (AutoParts)
+2010,Glass (AutoParts),0,0,Glass (AutoParts)
+2011,Glass (AutoParts),228,228,Glass (AutoParts)
+2012,Glass (AutoParts),76,304,Glass (AutoParts)
+2013,Glass (AutoParts),95,399,Glass (AutoParts)
+2014,Glass (AutoParts),129,528,Glass (AutoParts)
+2015,Glass (AutoParts),268,796,Glass (AutoParts)
+2016,Glass (AutoParts),217,1013,Glass (AutoParts)
+2017,Glass (AutoParts),165,1178,Glass (AutoParts)
+2018,Glass (AutoParts),102,1280,Glass (AutoParts)
+2019,Glass (AutoParts),98,1378,Glass (AutoParts)
+2020,Glass (AutoParts),64,1442,Glass (AutoParts)
+2021,Glass (AutoParts),60,1502,Glass (AutoParts)
+1993,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+1994,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+1995,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+1996,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+1997,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+1998,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+1999,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+2000,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+2001,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+2002,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+2003,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+2004,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+2005,Glass ceramics stone mineral products (non-auto,0,0,Glass ceramics stone mineral products (non-auto
+2006,Glass ceramics stone mineral products (non-auto,31,31,Glass ceramics stone mineral products (non-auto
+2007,Glass ceramics stone mineral products (non-auto,18,49,Glass ceramics stone mineral products (non-auto
+2008,Glass ceramics stone mineral products (non-auto,11,60,Glass ceramics stone mineral products (non-auto
+2009,Glass ceramics stone mineral products (non-auto,16,76,Glass ceramics stone mineral products (non-auto
+2010,Glass ceramics stone mineral products (non-auto,11,87,Glass ceramics stone mineral products (non-auto
+2011,Glass ceramics stone mineral products (non-auto,14,101,Glass ceramics stone mineral products (non-auto
+2012,Glass ceramics stone mineral products (non-auto,114,215,Glass ceramics stone mineral products (non-auto
+2013,Glass ceramics stone mineral products (non-auto,30,245,Glass ceramics stone mineral products (non-auto
+2014,Glass ceramics stone mineral products (non-auto,43,288,Glass ceramics stone mineral products (non-auto
+2015,Glass ceramics stone mineral products (non-auto,0,426,Glass ceramics stone mineral products (non-auto
+2016,Glass ceramics stone mineral products (non-auto,0,559,Glass ceramics stone mineral products (non-auto
+2017,Glass ceramics stone mineral products (non-auto,131,690,Glass ceramics stone mineral products (non-auto
+2018,Glass ceramics stone mineral products (non-auto,297,956,Glass ceramics stone mineral products (non-auto
+2019,Glass ceramics stone mineral products (non-auto,182,1120,Glass ceramics stone mineral products (non-auto
+2020,Glass ceramics stone mineral products (non-auto,125,1234,Glass ceramics stone mineral products (non-auto
+2021,Glass ceramics stone mineral products (non-auto,277,1495,Glass ceramics stone mineral products (non-auto
+1993,Household/domestic appliances,0,0,Household/domestic appliances
+1994,Household/domestic appliances,0,0,Household/domestic appliances
+1995,Household/domestic appliances,0,0,Household/domestic appliances
+1996,Household/domestic appliances,0,0,Household/domestic appliances
+1997,Household/domestic appliances,0,0,Household/domestic appliances
+1998,Household/domestic appliances,0,0,Household/domestic appliances
+1999,Household/domestic appliances,0,0,Household/domestic appliances
+2000,Household/domestic appliances,0,0,Household/domestic appliances
+2001,Household/domestic appliances,0,0,Household/domestic appliances
+2002,Household/domestic appliances,0,0,Household/domestic appliances
+2003,Household/domestic appliances,0,0,Household/domestic appliances
+2004,Household/domestic appliances,0,0,Household/domestic appliances
+2005,Household/domestic appliances,0,0,Household/domestic appliances
+2006,Household/domestic appliances,0,0,Household/domestic appliances
+2007,Household/domestic appliances,1,1,Household/domestic appliances
+2008,Household/domestic appliances,111,112,Household/domestic appliances
+2009,Household/domestic appliances,18,130,Household/domestic appliances
+2010,Household/domestic appliances,83,213,Household/domestic appliances
+2011,Household/domestic appliances,38,251,Household/domestic appliances
+2012,Household/domestic appliances,35,286,Household/domestic appliances
+2013,Household/domestic appliances,25,311,Household/domestic appliances
+2014,Household/domestic appliances,24,335,Household/domestic appliances
+2015,Household/domestic appliances,59,394,Household/domestic appliances
+2016,Household/domestic appliances,94,488,Household/domestic appliances
+2017,Household/domestic appliances,0,568,Household/domestic appliances
+2018,Household/domestic appliances,48,616,Household/domestic appliances
+2019,Household/domestic appliances,189,804,Household/domestic appliances
+2020,Household/domestic appliances,134,827,Household/domestic appliances
+2021,Household/domestic appliances,74,883,Household/domestic appliances
+1993,Industrial machinery,0,0,Industrial machinery
+1994,Industrial machinery,0,0,Industrial machinery
+1995,Industrial machinery,0,0,Industrial machinery
+1996,Industrial machinery,0,0,Industrial machinery
+1997,Industrial machinery,0,0,Industrial machinery
+1998,Industrial machinery,0,0,Industrial machinery
+1999,Industrial machinery,0,0,Industrial machinery
+2000,Industrial machinery,0,0,Industrial machinery
+2001,Industrial machinery,0,0,Industrial machinery
+2002,Industrial machinery,0,0,Industrial machinery
+2003,Industrial machinery,0,0,Industrial machinery
+2004,Industrial machinery,0,0,Industrial machinery
+2005,Industrial machinery,0,0,Industrial machinery
+2006,Industrial machinery,0,0,Industrial machinery
+2007,Industrial machinery,1,1,Industrial machinery
+2008,Industrial machinery,71,72,Industrial machinery
+2009,Industrial machinery,56,128,Industrial machinery
+2010,Industrial machinery,51,179,Industrial machinery
+2011,Industrial machinery,999,1178,Industrial machinery
+2012,Industrial machinery,753,1931,Industrial machinery
+2013,Industrial machinery,296,2227,Industrial machinery
+2014,Industrial machinery,215,2442,Industrial machinery
+2015,Industrial machinery,333,2775,Industrial machinery
+2016,Industrial machinery,338,3113,Industrial machinery
+2017,Industrial machinery,234,3347,Industrial machinery
+2018,Industrial machinery,363,3710,Industrial machinery
+2019,Industrial machinery,1085,4794,Industrial machinery
+2020,Industrial machinery,309,5032,Industrial machinery
+2021,Industrial machinery,508,5484,Industrial machinery
+1993,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+1994,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+1995,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+1996,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+1997,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+1998,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+1999,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2000,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2001,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2002,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2003,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2004,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2005,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2006,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2007,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2008,Info communication equipment domestic and prof. (,0,0,Info communication equipment domestic and prof. (
+2009,Info communication equipment domestic and prof. (,84,84,Info communication equipment domestic and prof. (
+2010,Info communication equipment domestic and prof. (,58,142,Info communication equipment domestic and prof. (
+2011,Info communication equipment domestic and prof. (,27,169,Info communication equipment domestic and prof. (
+2012,Info communication equipment domestic and prof. (,155,324,Info communication equipment domestic and prof. (
+2013,Info communication equipment domestic and prof. (,105,429,Info communication equipment domestic and prof. (
+2014,Info communication equipment domestic and prof. (,102,531,Info communication equipment domestic and prof. (
+2015,Info communication equipment domestic and prof. (,358,889,Info communication equipment domestic and prof. (
+2016,Info communication equipment domestic and prof. (,51,940,Info communication equipment domestic and prof. (
+2017,Info communication equipment domestic and prof. (,84,1024,Info communication equipment domestic and prof. (
+2018,Info communication equipment domestic and prof. (,493,1517,Info communication equipment domestic and prof. (
+2019,Info communication equipment domestic and prof. (,473,1990,Info communication equipment domestic and prof. (
+2020,Info communication equipment domestic and prof. (,182,2172,Info communication equipment domestic and prof. (
+2021,Info communication equipment domestic and prof. (,98,2186,Info communication equipment domestic and prof. (
+1993,Medical precision optical instruments,0,0,Medical precision optical instruments
+1994,Medical precision optical instruments,0,0,Medical precision optical instruments
+1995,Medical precision optical instruments,0,0,Medical precision optical instruments
+1996,Medical precision optical instruments,0,0,Medical precision optical instruments
+1997,Medical precision optical instruments,0,0,Medical precision optical instruments
+1998,Medical precision optical instruments,0,0,Medical precision optical instruments
+1999,Medical precision optical instruments,0,0,Medical precision optical instruments
+2000,Medical precision optical instruments,0,0,Medical precision optical instruments
+2001,Medical precision optical instruments,0,0,Medical precision optical instruments
+2002,Medical precision optical instruments,0,0,Medical precision optical instruments
+2003,Medical precision optical instruments,0,0,Medical precision optical instruments
+2004,Medical precision optical instruments,0,0,Medical precision optical instruments
+2005,Medical precision optical instruments,0,0,Medical precision optical instruments
+2006,Medical precision optical instruments,0,0,Medical precision optical instruments
+2007,Medical precision optical instruments,0,0,Medical precision optical instruments
+2008,Medical precision optical instruments,0,0,Medical precision optical instruments
+2009,Medical precision optical instruments,3,3,Medical precision optical instruments
+2010,Medical precision optical instruments,4,7,Medical precision optical instruments
+2011,Medical precision optical instruments,387,394,Medical precision optical instruments
+2012,Medical precision optical instruments,190,584,Medical precision optical instruments
+2013,Medical precision optical instruments,320,904,Medical precision optical instruments
+2014,Medical precision optical instruments,336,1240,Medical precision optical instruments
+2015,Medical precision optical instruments,497,1737,Medical precision optical instruments
+2016,Medical precision optical instruments,438,2175,Medical precision optical instruments
+2017,Medical precision optical instruments,530,2705,Medical precision optical instruments
+2018,Medical precision optical instruments,484,3189,Medical precision optical instruments
+2019,Medical precision optical instruments,294,3483,Medical precision optical instruments
+2020,Medical precision optical instruments,273,3756,Medical precision optical instruments
+2021,Medical precision optical instruments,418,4171,Medical precision optical instruments
+1993,Metal,0,0,Metal
+1994,Metal,0,0,Metal
+1995,Metal,0,0,Metal
+1996,Metal,0,0,Metal
+1997,Metal,0,0,Metal
+1998,Metal,0,0,Metal
+1999,Metal,0,0,Metal
+2000,Metal,0,0,Metal
+2001,Metal,0,0,Metal
+2002,Metal,0,0,Metal
+2003,Metal,0,0,Metal
+2004,Metal,1378,1378,Metal
+2005,Metal,2086,3464,Metal
+2006,Metal,1446,4910,Metal
+2007,Metal,1381,6291,Metal
+2008,Metal,1596,7887,Metal
+2009,Metal,539,8426,Metal
+2010,Metal,1189,9615,Metal
+2011,Metal,1685,11300,Metal
+2012,Metal,1933,13233,Metal
+2013,Metal,2310,15543,Metal
+2014,Metal,2384,17927,Metal
+2015,Metal,2204,20131,Metal
+2016,Metal,1895,20648,Metal
+2017,Metal,2603,21165,Metal
+2018,Metal,3180,22899,Metal
+2019,Metal,3785,25303,Metal
+2020,Metal,2294,26001,Metal
+2021,Metal,3814,29297,Metal
+1993,Metal (AutoParts),0,0,Metal (AutoParts)
+1994,Metal (AutoParts),0,0,Metal (AutoParts)
+1995,Metal (AutoParts),0,0,Metal (AutoParts)
+1996,Metal (AutoParts),0,0,Metal (AutoParts)
+1997,Metal (AutoParts),0,0,Metal (AutoParts)
+1998,Metal (AutoParts),0,0,Metal (AutoParts)
+1999,Metal (AutoParts),0,0,Metal (AutoParts)
+2000,Metal (AutoParts),0,0,Metal (AutoParts)
+2001,Metal (AutoParts),0,0,Metal (AutoParts)
+2002,Metal (AutoParts),0,0,Metal (AutoParts)
+2003,Metal (AutoParts),0,0,Metal (AutoParts)
+2004,Metal (AutoParts),0,0,Metal (AutoParts)
+2005,Metal (AutoParts),0,0,Metal (AutoParts)
+2006,Metal (AutoParts),0,0,Metal (AutoParts)
+2007,Metal (AutoParts),0,0,Metal (AutoParts)
+2008,Metal (AutoParts),0,0,Metal (AutoParts)
+2009,Metal (AutoParts),0,0,Metal (AutoParts)
+2010,Metal (AutoParts),0,0,Metal (AutoParts)
+2011,Metal (AutoParts),1007,1007,Metal (AutoParts)
+2012,Metal (AutoParts),899,1906,Metal (AutoParts)
+2013,Metal (AutoParts),830,2736,Metal (AutoParts)
+2014,Metal (AutoParts),2148,4884,Metal (AutoParts)
+2015,Metal (AutoParts),1666,6550,Metal (AutoParts)
+2016,Metal (AutoParts),1567,8117,Metal (AutoParts)
+2017,Metal (AutoParts),1934,10051,Metal (AutoParts)
+2018,Metal (AutoParts),1786,11837,Metal (AutoParts)
+2019,Metal (AutoParts),1484,13321,Metal (AutoParts)
+2020,Metal (AutoParts),912,14233,Metal (AutoParts)
+2021,Metal (AutoParts),1068,15301,Metal (AutoParts)
+1993,Metal products (non-automotive),0,0,Metal products (non-automotive)
+1994,Metal products (non-automotive),0,0,Metal products (non-automotive)
+1995,Metal products (non-automotive),0,0,Metal products (non-automotive)
+1996,Metal products (non-automotive),0,0,Metal products (non-automotive)
+1997,Metal products (non-automotive),0,0,Metal products (non-automotive)
+1998,Metal products (non-automotive),0,0,Metal products (non-automotive)
+1999,Metal products (non-automotive),0,0,Metal products (non-automotive)
+2000,Metal products (non-automotive),0,0,Metal products (non-automotive)
+2001,Metal products (non-automotive),0,0,Metal products (non-automotive)
+2002,Metal products (non-automotive),0,0,Metal products (non-automotive)
+2003,Metal products (non-automotive),0,0,Metal products (non-automotive)
+2004,Metal products (non-automotive),1378,1378,Metal products (non-automotive)
+2005,Metal products (non-automotive),2086,3464,Metal products (non-automotive)
+2006,Metal products (non-automotive),1446,4910,Metal products (non-automotive)
+2007,Metal products (non-automotive),1380,6290,Metal products (non-automotive)
+2008,Metal products (non-automotive),1517,7807,Metal products (non-automotive)
+2009,Metal products (non-automotive),473,8280,Metal products (non-automotive)
+2010,Metal products (non-automotive),1104,9384,Metal products (non-automotive)
+2011,Metal products (non-automotive),466,9850,Metal products (non-automotive)
+2012,Metal products (non-automotive),446,10296,Metal products (non-automotive)
+2013,Metal products (non-automotive),513,10809,Metal products (non-automotive)
+2014,Metal products (non-automotive),679,11488,Metal products (non-automotive)
+2015,Metal products (non-automotive),634,12122,Metal products (non-automotive)
+2016,Metal products (non-automotive),680,11424,Metal products (non-automotive)
+2017,Metal products (non-automotive),967,10305,Metal products (non-automotive)
+2018,Metal products (non-automotive),1177,10036,Metal products (non-automotive)
+2019,Metal products (non-automotive),1298,9954,Metal products (non-automotive)
+2020,Metal products (non-automotive),385,8822,Metal products (non-automotive)
+2021,Metal products (non-automotive),685,9034,Metal products (non-automotive)
+1993,Metal unspecified,0,0,Metal unspecified
+1994,Metal unspecified,0,0,Metal unspecified
+1995,Metal unspecified,0,0,Metal unspecified
+1996,Metal unspecified,0,0,Metal unspecified
+1997,Metal unspecified,0,0,Metal unspecified
+1998,Metal unspecified,0,0,Metal unspecified
+1999,Metal unspecified,0,0,Metal unspecified
+2000,Metal unspecified,0,0,Metal unspecified
+2001,Metal unspecified,0,0,Metal unspecified
+2002,Metal unspecified,0,0,Metal unspecified
+2003,Metal unspecified,0,0,Metal unspecified
+2004,Metal unspecified,0,0,Metal unspecified
+2005,Metal unspecified,0,0,Metal unspecified
+2006,Metal unspecified,0,0,Metal unspecified
+2007,Metal unspecified,0,0,Metal unspecified
+2008,Metal unspecified,0,0,Metal unspecified
+2009,Metal unspecified,0,0,Metal unspecified
+2010,Metal unspecified,0,0,Metal unspecified
+2011,Metal unspecified,0,0,Metal unspecified
+2012,Metal unspecified,0,0,Metal unspecified
+2013,Metal unspecified,0,0,Metal unspecified
+2014,Metal unspecified,0,0,Metal unspecified
+2015,Metal unspecified,0,0,Metal unspecified
+2016,Metal unspecified,0,0,Metal unspecified
+2017,Metal unspecified,10,10,Metal unspecified
+2018,Metal unspecified,0,10,Metal unspecified
+2019,Metal unspecified,0,10,Metal unspecified
+2020,Metal unspecified,0,10,Metal unspecified
+2021,Metal unspecified,0,31,Metal unspecified
+1993,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+1994,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+1995,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+1996,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+1997,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+1998,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+1999,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+2000,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+2001,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+2002,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+2003,Motor vehicles engines and bodies,0,0,Motor vehicles engines and bodies
+2004,Motor vehicles engines and bodies,4701,4701,Motor vehicles engines and bodies
+2005,Motor vehicles engines and bodies,8172,12873,Motor vehicles engines and bodies
+2006,Motor vehicles engines and bodies,3984,16857,Motor vehicles engines and bodies
+2007,Motor vehicles engines and bodies,5701,22558,Motor vehicles engines and bodies
+2008,Motor vehicles engines and bodies,3276,25834,Motor vehicles engines and bodies
+2009,Motor vehicles engines and bodies,2549,28383,Motor vehicles engines and bodies
+2010,Motor vehicles engines and bodies,3060,31443,Motor vehicles engines and bodies
+2011,Motor vehicles engines and bodies,4487,35930,Motor vehicles engines and bodies
+2012,Motor vehicles engines and bodies,7383,43313,Motor vehicles engines and bodies
+2013,Motor vehicles engines and bodies,5731,49044,Motor vehicles engines and bodies
+2014,Motor vehicles engines and bodies,6607,55651,Motor vehicles engines and bodies
+2015,Motor vehicles engines and bodies,4801,60452,Motor vehicles engines and bodies
+2016,Motor vehicles engines and bodies,8597,64348,Motor vehicles engines and bodies
+2017,Motor vehicles engines and bodies,6206,62382,Motor vehicles engines and bodies
+2018,Motor vehicles engines and bodies,4719,63117,Motor vehicles engines and bodies
+2019,Motor vehicles engines and bodies,5403,62819,Motor vehicles engines and bodies
+2020,Motor vehicles engines and bodies,5366,64909,Motor vehicles engines and bodies
+2021,Motor vehicles engines and bodies,4126,66486,Motor vehicles engines and bodies
+1993,Other (AutoParts),0,0,Other (AutoParts)
+1994,Other (AutoParts),0,0,Other (AutoParts)
+1995,Other (AutoParts),0,0,Other (AutoParts)
+1996,Other (AutoParts),0,0,Other (AutoParts)
+1997,Other (AutoParts),0,0,Other (AutoParts)
+1998,Other (AutoParts),0,0,Other (AutoParts)
+1999,Other (AutoParts),0,0,Other (AutoParts)
+2000,Other (AutoParts),0,0,Other (AutoParts)
+2001,Other (AutoParts),0,0,Other (AutoParts)
+2002,Other (AutoParts),0,0,Other (AutoParts)
+2003,Other (AutoParts),0,0,Other (AutoParts)
+2004,Other (AutoParts),0,0,Other (AutoParts)
+2005,Other (AutoParts),0,0,Other (AutoParts)
+2006,Other (AutoParts),0,0,Other (AutoParts)
+2007,Other (AutoParts),0,0,Other (AutoParts)
+2008,Other (AutoParts),0,0,Other (AutoParts)
+2009,Other (AutoParts),0,0,Other (AutoParts)
+2010,Other (AutoParts),0,0,Other (AutoParts)
+2011,Other (AutoParts),1,1,Other (AutoParts)
+2012,Other (AutoParts),238,239,Other (AutoParts)
+2013,Other (AutoParts),270,509,Other (AutoParts)
+2014,Other (AutoParts),735,1244,Other (AutoParts)
+2015,Other (AutoParts),0,1534,Other (AutoParts)
+2016,Other (AutoParts),0,2033,Other (AutoParts)
+2017,Other (AutoParts),5779,7812,Other (AutoParts)
+2018,Other (AutoParts),6875,14687,Other (AutoParts)
+2019,Other (AutoParts),4560,19247,Other (AutoParts)
+2020,Other (AutoParts),3234,22481,Other (AutoParts)
+2021,Other (AutoParts),3366,25847,Other (AutoParts)
+1993,Other vehicles,0,0,Other vehicles
+1994,Other vehicles,0,0,Other vehicles
+1995,Other vehicles,0,0,Other vehicles
+1996,Other vehicles,0,0,Other vehicles
+1997,Other vehicles,0,0,Other vehicles
+1998,Other vehicles,0,0,Other vehicles
+1999,Other vehicles,0,0,Other vehicles
+2000,Other vehicles,0,0,Other vehicles
+2001,Other vehicles,0,0,Other vehicles
+2002,Other vehicles,0,0,Other vehicles
+2003,Other vehicles,0,0,Other vehicles
+2004,Other vehicles,0,0,Other vehicles
+2005,Other vehicles,0,0,Other vehicles
+2006,Other vehicles,17,17,Other vehicles
+2007,Other vehicles,22,39,Other vehicles
+2008,Other vehicles,30,69,Other vehicles
+2009,Other vehicles,19,88,Other vehicles
+2010,Other vehicles,9,97,Other vehicles
+2011,Other vehicles,56,153,Other vehicles
+2012,Other vehicles,40,193,Other vehicles
+2013,Other vehicles,88,281,Other vehicles
+2014,Other vehicles,138,419,Other vehicles
+2015,Other vehicles,128,547,Other vehicles
+2016,Other vehicles,115,662,Other vehicles
+2017,Other vehicles,84,746,Other vehicles
+2018,Other vehicles,188,917,Other vehicles
+2019,Other vehicles,215,1110,Other vehicles
+2020,Other vehicles,82,1162,Other vehicles
+2021,Other vehicles,198,1341,Other vehicles
+1993,Paper,0,0,Paper
+1994,Paper,0,0,Paper
+1995,Paper,0,0,Paper
+1996,Paper,0,0,Paper
+1997,Paper,0,0,Paper
+1998,Paper,0,0,Paper
+1999,Paper,0,0,Paper
+2000,Paper,0,0,Paper
+2001,Paper,0,0,Paper
+2002,Paper,0,0,Paper
+2003,Paper,0,0,Paper
+2004,Paper,0,0,Paper
+2005,Paper,0,0,Paper
+2006,Paper,0,0,Paper
+2007,Paper,2,2,Paper
+2008,Paper,0,2,Paper
+2009,Paper,3,5,Paper
+2010,Paper,8,13,Paper
+2011,Paper,113,126,Paper
+2012,Paper,25,151,Paper
+2013,Paper,30,181,Paper
+2014,Paper,32,213,Paper
+2015,Paper,66,279,Paper
+2016,Paper,32,311,Paper
+2017,Paper,49,360,Paper
+2018,Paper,52,412,Paper
+2019,Paper,79,489,Paper
+2020,Paper,42,531,Paper
+2021,Paper,37,565,Paper
+1993,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+1994,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+1995,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+1996,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+1997,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+1998,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+1999,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+2000,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+2001,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+2002,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+2003,Pharmaceuticals cosmetics,0,0,Pharmaceuticals cosmetics
+2004,Pharmaceuticals cosmetics,230,230,Pharmaceuticals cosmetics
+2005,Pharmaceuticals cosmetics,381,611,Pharmaceuticals cosmetics
+2006,Pharmaceuticals cosmetics,285,896,Pharmaceuticals cosmetics
+2007,Pharmaceuticals cosmetics,348,1244,Pharmaceuticals cosmetics
+2008,Pharmaceuticals cosmetics,397,1641,Pharmaceuticals cosmetics
+2009,Pharmaceuticals cosmetics,348,1989,Pharmaceuticals cosmetics
+2010,Pharmaceuticals cosmetics,602,2591,Pharmaceuticals cosmetics
+2011,Pharmaceuticals cosmetics,286,2877,Pharmaceuticals cosmetics
+2012,Pharmaceuticals cosmetics,313,3190,Pharmaceuticals cosmetics
+2013,Pharmaceuticals cosmetics,890,4080,Pharmaceuticals cosmetics
+2014,Pharmaceuticals cosmetics,536,4616,Pharmaceuticals cosmetics
+2015,Pharmaceuticals cosmetics,448,5064,Pharmaceuticals cosmetics
+2016,Pharmaceuticals cosmetics,554,5388,Pharmaceuticals cosmetics
+2017,Pharmaceuticals cosmetics,681,5688,Pharmaceuticals cosmetics
+2018,Pharmaceuticals cosmetics,1158,6561,Pharmaceuticals cosmetics
+2019,Pharmaceuticals cosmetics,937,7150,Pharmaceuticals cosmetics
+2020,Pharmaceuticals cosmetics,1317,8070,Pharmaceuticals cosmetics
+2021,Pharmaceuticals cosmetics,1698,9420,Pharmaceuticals cosmetics
+1993,Plastic and chemical products,0,0,Plastic and chemical products
+1994,Plastic and chemical products,0,0,Plastic and chemical products
+1995,Plastic and chemical products,0,0,Plastic and chemical products
+1996,Plastic and chemical products,0,0,Plastic and chemical products
+1997,Plastic and chemical products,0,0,Plastic and chemical products
+1998,Plastic and chemical products,0,0,Plastic and chemical products
+1999,Plastic and chemical products,0,0,Plastic and chemical products
+2000,Plastic and chemical products,0,0,Plastic and chemical products
+2001,Plastic and chemical products,0,0,Plastic and chemical products
+2002,Plastic and chemical products,0,0,Plastic and chemical products
+2003,Plastic and chemical products,0,0,Plastic and chemical products
+2004,Plastic and chemical products,1146,1146,Plastic and chemical products
+2005,Plastic and chemical products,1575,2721,Plastic and chemical products
+2006,Plastic and chemical products,1698,4419,Plastic and chemical products
+2007,Plastic and chemical products,1546,5965,Plastic and chemical products
+2008,Plastic and chemical products,1394,7359,Plastic and chemical products
+2009,Plastic and chemical products,925,8284,Plastic and chemical products
+2010,Plastic and chemical products,1551,9835,Plastic and chemical products
+2011,Plastic and chemical products,1181,11016,Plastic and chemical products
+2012,Plastic and chemical products,1482,12498,Plastic and chemical products
+2013,Plastic and chemical products,2334,14832,Plastic and chemical products
+2014,Plastic and chemical products,2065,16897,Plastic and chemical products
+2015,Plastic and chemical products,1932,18829,Plastic and chemical products
+2016,Plastic and chemical products,2093,19776,Plastic and chemical products
+2017,Plastic and chemical products,2281,20482,Plastic and chemical products
+2018,Plastic and chemical products,2837,21621,Plastic and chemical products
+2019,Plastic and chemical products,2491,22566,Plastic and chemical products
+2020,Plastic and chemical products,2661,23833,Plastic and chemical products
+2021,Plastic and chemical products,3466,26374,Plastic and chemical products
+1993,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+1994,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+1995,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+1996,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+1997,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+1998,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+1999,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2000,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2001,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2002,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2003,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2004,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2005,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2006,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2007,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2008,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2009,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2010,Rubber and plastic (AutoParts),0,0,Rubber and plastic (AutoParts)
+2011,Rubber and plastic (AutoParts),351,351,Rubber and plastic (AutoParts)
+2012,Rubber and plastic (AutoParts),406,757,Rubber and plastic (AutoParts)
+2013,Rubber and plastic (AutoParts),296,1053,Rubber and plastic (AutoParts)
+2014,Rubber and plastic (AutoParts),568,1621,Rubber and plastic (AutoParts)
+2015,Rubber and plastic (AutoParts),605,2226,Rubber and plastic (AutoParts)
+2016,Rubber and plastic (AutoParts),618,2844,Rubber and plastic (AutoParts)
+2017,Rubber and plastic (AutoParts),707,3551,Rubber and plastic (AutoParts)
+2018,Rubber and plastic (AutoParts),576,4127,Rubber and plastic (AutoParts)
+2019,Rubber and plastic (AutoParts),444,4571,Rubber and plastic (AutoParts)
+2020,Rubber and plastic (AutoParts),335,4906,Rubber and plastic (AutoParts)
+2021,Rubber and plastic (AutoParts),547,5453,Rubber and plastic (AutoParts)
+1993,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+1994,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+1995,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+1996,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+1997,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+1998,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+1999,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+2000,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+2001,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+2002,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+2003,Rubber and plastic products (non-automotive),0,0,Rubber and plastic products (non-automotive)
+2004,Rubber and plastic products (non-automotive),916,916,Rubber and plastic products (non-automotive)
+2005,Rubber and plastic products (non-automotive),1194,2110,Rubber and plastic products (non-automotive)
+2006,Rubber and plastic products (non-automotive),1413,3523,Rubber and plastic products (non-automotive)
+2007,Rubber and plastic products (non-automotive),1198,4721,Rubber and plastic products (non-automotive)
+2008,Rubber and plastic products (non-automotive),997,5718,Rubber and plastic products (non-automotive)
+2009,Rubber and plastic products (non-automotive),577,6295,Rubber and plastic products (non-automotive)
+2010,Rubber and plastic products (non-automotive),949,7244,Rubber and plastic products (non-automotive)
+2011,Rubber and plastic products (non-automotive),870,8114,Rubber and plastic products (non-automotive)
+2012,Rubber and plastic products (non-automotive),1149,9263,Rubber and plastic products (non-automotive)
+2013,Rubber and plastic products (non-automotive),1425,10688,Rubber and plastic products (non-automotive)
+2014,Rubber and plastic products (non-automotive),1512,12200,Rubber and plastic products (non-automotive)
+2015,Rubber and plastic products (non-automotive),1439,13639,Rubber and plastic products (non-automotive)
+2016,Rubber and plastic products (non-automotive),1506,14229,Rubber and plastic products (non-automotive)
+2017,Rubber and plastic products (non-automotive),1590,14625,Rubber and plastic products (non-automotive)
+2018,Rubber and plastic products (non-automotive),1663,14875,Rubber and plastic products (non-automotive)
+2019,Rubber and plastic products (non-automotive),1539,15216,Rubber and plastic products (non-automotive)
+2020,Rubber and plastic products (non-automotive),1323,15542,Rubber and plastic products (non-automotive)
+2021,Rubber and plastic products (non-automotive),1735,16700,Rubber and plastic products (non-automotive)
+1993,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+1994,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+1995,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+1996,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+1997,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+1998,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+1999,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2000,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2001,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2002,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2003,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2004,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2005,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2006,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2007,Semiconductors LCD LED,0,0,Semiconductors LCD LED
+2008,Semiconductors LCD LED,1872,1872,Semiconductors LCD LED
+2009,Semiconductors LCD LED,773,2645,Semiconductors LCD LED
+2010,Semiconductors LCD LED,3409,6054,Semiconductors LCD LED
+2011,Semiconductors LCD LED,2846,8900,Semiconductors LCD LED
+2012,Semiconductors LCD LED,2091,10991,Semiconductors LCD LED
+2013,Semiconductors LCD LED,2132,13123,Semiconductors LCD LED
+2014,Semiconductors LCD LED,2296,15419,Semiconductors LCD LED
+2015,Semiconductors LCD LED,2902,18321,Semiconductors LCD LED
+2016,Semiconductors LCD LED,3089,21410,Semiconductors LCD LED
+2017,Semiconductors LCD LED,3725,25135,Semiconductors LCD LED
+2018,Semiconductors LCD LED,0,25167,Semiconductors LCD LED
+2019,Semiconductors LCD LED,120,25287,Semiconductors LCD LED
+2020,Semiconductors LCD LED,124,23539,Semiconductors LCD LED
+2021,Semiconductors LCD LED,238,23004,Semiconductors LCD LED
+1993,Textiles,0,0,Textiles
+1994,Textiles,0,0,Textiles
+1995,Textiles,0,0,Textiles
+1996,Textiles,0,0,Textiles
+1997,Textiles,0,0,Textiles
+1998,Textiles,0,0,Textiles
+1999,Textiles,0,0,Textiles
+2000,Textiles,0,0,Textiles
+2001,Textiles,0,0,Textiles
+2002,Textiles,0,0,Textiles
+2003,Textiles,0,0,Textiles
+2004,Textiles,0,0,Textiles
+2005,Textiles,0,0,Textiles
+2006,Textiles,0,0,Textiles
+2007,Textiles,2,2,Textiles
+2008,Textiles,7,9,Textiles
+2009,Textiles,0,9,Textiles
+2010,Textiles,2,11,Textiles
+2011,Textiles,11,22,Textiles
+2012,Textiles,16,38,Textiles
+2013,Textiles,16,54,Textiles
+2014,Textiles,20,74,Textiles
+2015,Textiles,36,110,Textiles
+2016,Textiles,39,149,Textiles
+2017,Textiles,0,178,Textiles
+2018,Textiles,32,210,Textiles
+2019,Textiles,0,257,Textiles
+2020,Textiles,42,292,Textiles
+2021,Textiles,63,355,Textiles
+1993,Unspecified,5246,43454,Unspecified
+1994,Unspecified,6676,49130,Unspecified
+1995,Unspecified,8815,56945,Unspecified
+1996,Unspecified,8385,60965,Unspecified
+1997,Unspecified,10723,66394,Unspecified
+1998,Unspecified,9365,70466,Unspecified
+1999,Unspecified,12836,79959,Unspecified
+2000,Unspecified,12986,89880,Unspecified
+2001,Unspecified,10813,97257,Unspecified
+2002,Unspecified,9955,103515,Unspecified
+2003,Unspecified,12693,112390,Unspecified
+2004,Unspecified,2060,110553,Unspecified
+2005,Unspecified,1911,107218,Unspecified
+2006,Unspecified,2376,102918,Unspecified
+2007,Unspecified,2377,96480,Unspecified
+2008,Unspecified,3328,91423,Unspecified
+2009,Unspecified,1212,81912,Unspecified
+2010,Unspecified,3509,76056,Unspecified
+2011,Unspecified,2772,65992,Unspecified
+2012,Unspecified,1861,54867,Unspecified
+2013,Unspecified,2363,46417,Unspecified
+2014,Unspecified,885,37347,Unspecified
+2015,Unspecified,1479,26133,Unspecified
+2016,Unspecified,1692,25765,Unspecified
+2017,Unspecified,2219,26073,Unspecified
+2018,Unspecified,6622,30319,Unspecified
+2019,Unspecified,4967,32909,Unspecified
+2020,Unspecified,6295,35876,Unspecified
+2021,Unspecified,7143,41807,Unspecified
+1993,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+1994,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+1995,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+1996,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+1997,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+1998,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+1999,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+2000,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+2001,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+2002,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+2003,Unspecified AutoParts ,0,0,Unspecified AutoParts 
+2004,Unspecified AutoParts ,3950,3950,Unspecified AutoParts 
+2005,Unspecified AutoParts ,4982,8932,Unspecified AutoParts 
+2006,Unspecified AutoParts ,3593,12525,Unspecified AutoParts 
+2007,Unspecified AutoParts ,3591,16116,Unspecified AutoParts 
+2008,Unspecified AutoParts ,3447,19563,Unspecified AutoParts 
+2009,Unspecified AutoParts ,1231,20794,Unspecified AutoParts 
+2010,Unspecified AutoParts ,2308,23102,Unspecified AutoParts 
+2011,Unspecified AutoParts ,1962,25064,Unspecified AutoParts 
+2012,Unspecified AutoParts ,2347,27411,Unspecified AutoParts 
+2013,Unspecified AutoParts ,2736,30147,Unspecified AutoParts 
+2014,Unspecified AutoParts ,3007,33154,Unspecified AutoParts 
+2015,Unspecified AutoParts ,4409,37273,Unspecified AutoParts 
+2016,Unspecified AutoParts ,4607,37431,Unspecified AutoParts 
+2017,Unspecified AutoParts ,0,32449,Unspecified AutoParts 
+2018,Unspecified AutoParts ,538,29394,Unspecified AutoParts 
+2019,Unspecified AutoParts ,362,26165,Unspecified AutoParts 
+2020,Unspecified AutoParts ,90,22808,Unspecified AutoParts 
+2021,Unspecified AutoParts ,229,21806,Unspecified AutoParts 
+1993,Wood and furniture,0,0,Wood and furniture
+1994,Wood and furniture,0,0,Wood and furniture
+1995,Wood and furniture,0,0,Wood and furniture
+1996,Wood and furniture,0,0,Wood and furniture
+1997,Wood and furniture,0,0,Wood and furniture
+1998,Wood and furniture,0,0,Wood and furniture
+1999,Wood and furniture,0,0,Wood and furniture
+2000,Wood and furniture,0,0,Wood and furniture
+2001,Wood and furniture,0,0,Wood and furniture
+2002,Wood and furniture,0,0,Wood and furniture
+2003,Wood and furniture,0,0,Wood and furniture
+2004,Wood and furniture,0,0,Wood and furniture
+2005,Wood and furniture,0,0,Wood and furniture
+2006,Wood and furniture,3,3,Wood and furniture
+2007,Wood and furniture,3,6,Wood and furniture
+2008,Wood and furniture,0,6,Wood and furniture
+2009,Wood and furniture,2,8,Wood and furniture
+2010,Wood and furniture,3,11,Wood and furniture
+2011,Wood and furniture,10,21,Wood and furniture
+2012,Wood and furniture,15,36,Wood and furniture
+2013,Wood and furniture,23,59,Wood and furniture
+2014,Wood and furniture,43,102,Wood and furniture
+2015,Wood and furniture,34,136,Wood and furniture
+2016,Wood and furniture,21,157,Wood and furniture
+2017,Wood and furniture,61,218,Wood and furniture
+2018,Wood and furniture,55,270,Wood and furniture
+2019,Wood and furniture,62,329,Wood and furniture
+2020,Wood and furniture,29,358,Wood and furniture
+2021,Wood and furniture,61,417,Wood and furniture
+1993,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+1994,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+1995,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+1996,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+1997,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+1998,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+1999,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2000,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2001,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2002,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2003,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2004,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2005,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2006,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2007,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2008,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2009,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2010,other chemical products n.e.c.,0,0,other chemical products n.e.c.
+2011,other chemical products n.e.c.,25,25,other chemical products n.e.c.
+2012,other chemical products n.e.c.,20,45,other chemical products n.e.c.
+2013,other chemical products n.e.c.,19,64,other chemical products n.e.c.
+2014,other chemical products n.e.c.,17,81,other chemical products n.e.c.
+2015,other chemical products n.e.c.,45,126,other chemical products n.e.c.
+2016,other chemical products n.e.c.,33,159,other chemical products n.e.c.
+2017,other chemical products n.e.c.,10,169,other chemical products n.e.c.
+2018,other chemical products n.e.c.,16,185,other chemical products n.e.c.
+2019,other chemical products n.e.c.,15,200,other chemical products n.e.c.
+2020,other chemical products n.e.c.,21,221,other chemical products n.e.c.
+2021,other chemical products n.e.c.,33,254,other chemical products n.e.c.
